@@ -11,7 +11,7 @@ const attendanceHistory = [
   },
   {
     id: '2',
-    name: 'Nate iDontKnow',
+    name: 'Nate Robinson',
     timeIn: '2024-02-14T08:15:00',
     timeOut: '2024-02-14T17:30:00',
   },
