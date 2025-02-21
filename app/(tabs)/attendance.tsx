@@ -5,7 +5,7 @@ import { format } from 'date-fns';
 const attendanceHistory = [
   {
     id: '1',
-    name: 'Jasper Something',
+    name: 'John Wick',
     timeIn: '2024-02-14T08:00:00',
     timeOut: '2024-02-14T17:00:00',
   },
